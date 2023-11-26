@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20231127T095000Z
+SUMMARY:Межсервисная авторизация в Авито PaaS | AvitoTech
+DESCRIPTION:👨‍💻 Антон Губарев, инженер команды PaaS
+📍 27 ноября 12:20, Зал «Москва (2 этаж)»
+LOCATION:Зал «Москва (2 этаж)»
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
